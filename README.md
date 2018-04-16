@@ -110,8 +110,10 @@ https://github.com/JonKerridge/UCaPE
 The groovyJCSP library of helper classes is available from the same repository :
 https://github.com/JonKerridge
 
-In particular part ii contains many examples of the use of the jcsp.net2 package which replaces the now 
-deprecated jcsp.net package
+In particular part ii contains many examples of the use of the jcsp.net2 package which is not reliant 
+on a central Channel Name Server.  Networks can be constructed using the TCP/IP addresses of Node.  The
+net2 package also contains the ability to create 'mobile' processes, in that processes can be communicated
+over net channels as first class objects.
 
 
 Request for Feedback
