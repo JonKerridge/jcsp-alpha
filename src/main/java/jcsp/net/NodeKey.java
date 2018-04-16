@@ -26,7 +26,7 @@ package jcsp.net;
  * is required for any Node management operations.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public final class NodeKey

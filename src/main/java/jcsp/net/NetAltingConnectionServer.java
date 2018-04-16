@@ -41,7 +41,7 @@ import jcsp.lang.*;
  * using the <code>{@link NetConnection}</code> class.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 class NetAltingConnectionServer extends AltingConnectionServerImpl implements NetConnectionServer

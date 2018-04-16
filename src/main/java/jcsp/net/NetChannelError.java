@@ -30,7 +30,7 @@ package jcsp.net;
  * any instant.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class NetChannelError extends Error

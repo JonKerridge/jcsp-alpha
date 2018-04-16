@@ -26,7 +26,7 @@ import jcsp.lang.ConnectionClient;
  * This interface should be implemented by classes that wish to act
  * as Networked <code>ConnectionClient</code> objects.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface NetConnectionClient extends Networked, ConnectionClient

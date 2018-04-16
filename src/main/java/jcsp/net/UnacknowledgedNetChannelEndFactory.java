@@ -24,7 +24,7 @@ package jcsp.net;
  * Extends the standard network channel factory to give unacknowledged channel output ends. Use these with caution
  * as the lack of synchronization between sender and receiver can lead to potential problems.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class UnacknowledgedNetChannelEndFactory extends StandardNetChannelEndFactory

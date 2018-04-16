@@ -27,7 +27,7 @@ import jcsp.util.filter.*;
 /**
  * A migratable networked channel output end.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface MigratableChannelOutput extends NetChannelOutput, FilteredChannelOutput, Serializable

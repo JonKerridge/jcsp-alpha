@@ -37,7 +37,7 @@ import jcsp.util.Buffer;
  * same connection and each one may be used by a different process.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class NetSharedAltingConnectionClient extends SharedAltingConnectionClient implements NetSharedConnectionClient

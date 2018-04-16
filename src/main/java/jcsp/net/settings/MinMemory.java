@@ -23,7 +23,7 @@ package jcsp.net.settings;
 /**
  * Used internally within the JCSP network infrastructure to represent a minimum memory setting.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class MinMemory extends Spec implements Req, XMLConfigConstants

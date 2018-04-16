@@ -23,7 +23,7 @@ package jcsp.net.settings;
 /**
  * Used internally within the JCSP network infrastructure to represent a wireless protocol.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class Wireless extends Spec implements Req

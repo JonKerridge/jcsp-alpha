@@ -26,7 +26,7 @@ package jcsp.net;
  * for accessing non-admin functionality provided by
  * a service.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface ServiceUserObject

@@ -115,7 +115,7 @@ import jcsp.net.*;
  * this is the only node running, it will allocate a new ID. If the process running was started
  * remotely then the application ID of the parent node will be returned.</p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class RemoteProcess implements CSProcess

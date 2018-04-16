@@ -24,7 +24,7 @@ package jcsp.net;
  * This is a default implementation for <CODE>NodeUI</CODE> that is used if no
  * other implementation is supplied.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class NodeUIImpl extends NodeUI

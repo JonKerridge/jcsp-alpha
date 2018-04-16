@@ -33,7 +33,7 @@ import java.util.*;
  * by JCSP.NET protocol implementations.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class LinkFactory

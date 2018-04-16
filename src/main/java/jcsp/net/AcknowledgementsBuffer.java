@@ -46,7 +46,7 @@ import java.io.Serializable;
  * AcknowledgementsBuffer.Acks.
  *
  * @see jcsp.util.InfiniteBuffer
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 //package-private

@@ -32,7 +32,7 @@ import java.io.*;
  *
  * This class has no public constructor.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public final class ChannelNameKey implements Serializable

@@ -25,7 +25,7 @@ import jcsp.net.cns.NameAccessLevel;
 /**
  * Factory interface for creating migratable networked channel input ends using a CNS service.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface NamedMigratableChannelEndFactory

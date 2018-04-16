@@ -38,7 +38,7 @@ import jcsp.net.*;
  *
  * <p>If the process raises an exception, this will be forwarded to the caller if possible.</p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class ChildProcess

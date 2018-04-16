@@ -24,7 +24,7 @@ package jcsp.net.security;
  * <p>Thrown by the security authority implementations if the credentials supplied are not correct or
  * another error occurs as a result of user parameters.</p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class AccessDeniedException extends Exception

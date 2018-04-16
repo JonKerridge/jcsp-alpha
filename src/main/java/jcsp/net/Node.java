@@ -131,7 +131,7 @@ import java.util.*;
  * for more information.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class Node

@@ -27,7 +27,7 @@ package jcsp.net;
  * requests. When a request is received, a <CODE>Link</CODE> should be spawned in
  * server mode.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public abstract class LinkServer

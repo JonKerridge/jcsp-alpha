@@ -27,7 +27,7 @@ import jcsp.lang.SharedChannelOutput;
  * wish to act as <code>NetChannelOutput</code> objects
  * which can be used by muliple concurrent processes.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface NetSharedChannelOutput extends NetChannelOutput, SharedChannelOutput

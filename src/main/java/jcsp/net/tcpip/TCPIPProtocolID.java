@@ -29,7 +29,7 @@ import jcsp.net.*;
  *
  * @see ProtocolID
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class TCPIPProtocolID extends ProtocolID

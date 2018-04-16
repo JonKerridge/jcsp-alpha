@@ -30,7 +30,7 @@ import jcsp.net.*;
  * new JVM, routing any exceptions to the requesting host and also any information printed to the
  * <code>System.err</code> or <code>System.out</code> streams.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 class ProcessSpawner implements CSProcess

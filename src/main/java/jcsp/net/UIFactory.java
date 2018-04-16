@@ -31,7 +31,7 @@ package jcsp.net;
  * <CODE>Node</CODE> class.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class UIFactory

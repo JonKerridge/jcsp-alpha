@@ -26,7 +26,7 @@ package jcsp.net;
  * channel ends.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface NetChannelEndFactory

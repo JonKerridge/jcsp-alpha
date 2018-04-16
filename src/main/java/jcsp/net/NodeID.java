@@ -31,7 +31,7 @@ import java.util.*;
  * <p>
  * For an explanation of this class, see <code>{@link AbstractID}</code>.
  * </p>
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public final class NodeID extends AbstractID implements Serializable, Cloneable, Comparable

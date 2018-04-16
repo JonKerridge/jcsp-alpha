@@ -32,7 +32,7 @@ import jcsp.lang.ChannelOutput;
  * This is a package-private implementation class.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 // package-private

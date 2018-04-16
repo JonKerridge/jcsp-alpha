@@ -42,7 +42,7 @@ import jcsp.net.*;
  * by the instance of this class that was invoked, then a
  * <code>WrongFactoryException</code> should be thrown.
  * </p>
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface NamedChannelEndManager extends NamedChannelEndFactory

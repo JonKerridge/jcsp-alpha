@@ -25,7 +25,7 @@ package jcsp.net;
  * might find useful when implementing JCSP.NET communication protocol
  * drivers.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class Utils

@@ -30,7 +30,7 @@ package jcsp.net;
  * An implementation is provided, see
  * <code>{@link StandardNetConnectionFactory}</code>.
  * </p>
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface NetConnectionFactory

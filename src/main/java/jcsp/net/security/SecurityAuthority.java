@@ -65,7 +65,7 @@ import jcsp.net.*;
  * response the <code>permitUserAccess</code> method must be used. To remove a user from this set the
  * <code>denyUserAccess</code> method should be used.</p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface SecurityAuthority extends ServiceUserObject, java.io.Serializable

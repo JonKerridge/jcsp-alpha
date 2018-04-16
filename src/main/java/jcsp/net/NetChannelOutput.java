@@ -35,7 +35,7 @@ import jcsp.lang.*;
  * reinitialize itself.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface NetChannelOutput extends ChannelOutput, Networked

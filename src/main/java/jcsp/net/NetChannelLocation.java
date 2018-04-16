@@ -33,7 +33,7 @@ import java.io.Serializable;
  * Instances of this class may either be constructed by the
  * <code>jcsp.net</code> user or by the networking infrastructure.
  * </p>
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class NetChannelLocation implements Cloneable, Serializable

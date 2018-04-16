@@ -26,7 +26,7 @@ import jcsp.util.ChannelDataStore;
  * A standard implementation of the JCSP.NET
  * Networked channel factory interaces.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class StandardNetChannelEndFactory

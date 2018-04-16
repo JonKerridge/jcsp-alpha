@@ -34,7 +34,7 @@ import jcsp.lang.ChannelInput;
  * </p>
  * @see NetAltingChannelInput
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface NetChannelInput extends ChannelInput, Networked

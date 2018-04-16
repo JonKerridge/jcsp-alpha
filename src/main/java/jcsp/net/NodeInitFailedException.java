@@ -24,7 +24,7 @@ package jcsp.net;
  * An <CODE>Exception</CODE> that is thrown if Node initialization
  * fails.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class NodeInitFailedException extends Exception

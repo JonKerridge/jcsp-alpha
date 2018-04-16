@@ -31,7 +31,7 @@ import jcsp.util.filter.FilteredChannelOutput;
 /**
  * Implements of a migratable networked channel output end.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 class MigratableChannelOutputImpl implements MigratableChannelOutput

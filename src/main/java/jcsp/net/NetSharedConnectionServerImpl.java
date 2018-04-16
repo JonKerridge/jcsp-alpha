@@ -24,7 +24,7 @@ import jcsp.lang.*;
 import jcsp.util.Buffer;
 
 /**
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 class NetSharedConnectionServerImpl extends SharedConnectionServerImpl implements NetSharedConnectionServer

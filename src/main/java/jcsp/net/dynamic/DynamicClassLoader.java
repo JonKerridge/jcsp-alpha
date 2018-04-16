@@ -31,7 +31,7 @@ import jcsp.util.filter.*;
  * dynamic class loading over a given channel, plug the TX filter into the sending end and the RX filter
  * into the receiving end. The channel can then be used normally.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class DynamicClassLoader implements Service

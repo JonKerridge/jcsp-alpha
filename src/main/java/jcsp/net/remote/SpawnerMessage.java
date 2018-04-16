@@ -28,7 +28,7 @@ import jcsp.net.*;
  * Message sent from <code>RemoteProcess</code> to <code>SpawnerService</code> listing the details of
  * the process that should be started and a network channel address for replying on.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 class SpawnerMessage implements Serializable

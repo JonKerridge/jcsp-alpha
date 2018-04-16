@@ -37,7 +37,7 @@ import jcsp.net.*;
  * a channel naming service.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface NamedChannelEndFactory

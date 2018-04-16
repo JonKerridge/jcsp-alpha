@@ -25,7 +25,7 @@ package jcsp.net.security;
  * for allocating them. No methods are defined because the way in which IDs are specified may vary. For
  * example not all systems may identify users with a unique string based user name.</p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface UserID extends java.io.Serializable

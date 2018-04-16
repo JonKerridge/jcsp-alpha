@@ -32,7 +32,7 @@ import jcsp.net.*;
  * The objects returned by the <code>{@link CNSService}</code> can be used
  * in place of normal <code>NetChannelLocation</code> objects.
  * </p>
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class CNSNetChannelLocation extends NetChannelLocation

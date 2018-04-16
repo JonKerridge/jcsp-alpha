@@ -24,7 +24,7 @@ package jcsp.net.cns;
  * Thrown if an attempt is made to get a <code>NamedChannelEndManager</code>
  * to destroy a channel that it did not create.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class WrongFactoryException extends RuntimeException

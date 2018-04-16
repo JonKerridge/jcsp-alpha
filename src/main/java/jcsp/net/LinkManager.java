@@ -28,7 +28,7 @@ import java.util.*;
  * This class manages the list of open links.  It ensures that there is
  * only ever one link between two given JCSP servers.  <p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited.
  */
 // package-private

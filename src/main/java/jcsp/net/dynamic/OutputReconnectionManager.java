@@ -28,7 +28,7 @@ import jcsp.net.*;
  * <code>getOutputChannel</code> and used like any other channel. Before transfering the channel end
  * to another node the <code>prepareToMove()</code> method must be called.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface OutputReconnectionManager extends Serializable

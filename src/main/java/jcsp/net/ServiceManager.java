@@ -33,7 +33,7 @@ import java.util.*;
  * class does not currently allow services to removed. Services can be stopped
  * by obtaining their reference and stopping them directly.
  * </p>
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class ServiceManager

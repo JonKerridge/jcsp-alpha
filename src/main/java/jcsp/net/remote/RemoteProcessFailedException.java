@@ -25,7 +25,7 @@ import jcsp.lang.*;
 /**
  * Thrown if a remote process terminates abruptly with a non-zero error code.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class RemoteProcessFailedException extends RuntimeException

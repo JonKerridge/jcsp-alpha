@@ -25,7 +25,7 @@ package jcsp.net;
  * a channel's VCN with a label that already exists at the
  * same Node.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class DuplicateChannelLabelException extends RuntimeException

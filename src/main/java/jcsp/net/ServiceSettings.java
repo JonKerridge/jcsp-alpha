@@ -37,7 +37,7 @@ import java.util.*;
  * be obtained by calling the <CODE>getServiceName()</CODE> method.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class ServiceSettings

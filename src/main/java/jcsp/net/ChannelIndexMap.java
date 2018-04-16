@@ -27,7 +27,7 @@ import jcsp.lang.SharedChannelOutput;
 
 /**
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited.
  */
 class ChannelIndexMap

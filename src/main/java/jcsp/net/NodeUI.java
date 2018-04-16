@@ -35,7 +35,7 @@ import java.lang.reflect.*;
  * returned from the <CODE>getImplStringForm()</CODE> method.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public abstract class NodeUI implements Serializable, Comparable

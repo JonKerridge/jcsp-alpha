@@ -25,7 +25,7 @@ package jcsp.net;
  * <code>Networked</code> <code>ChannelOutput</code> and
  * the destination address is incorrect.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class ReaderIndexException extends RuntimeException

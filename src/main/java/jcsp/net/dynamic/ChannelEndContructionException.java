@@ -23,7 +23,7 @@ package jcsp.net.dynamic;
 /**
  * Thrown when a reconnection mannager is unable to recreate the underlying channel.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class ChannelEndContructionException extends RuntimeException

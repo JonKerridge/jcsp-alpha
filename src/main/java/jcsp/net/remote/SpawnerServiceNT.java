@@ -27,7 +27,7 @@ import jcsp.win32.*;
  * path <code>java jcsp.net.remote.SpawnerServiceNT</code> with the service name
  * <code>JCSP.NET:SpawnerService</code>.</p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class SpawnerServiceNT extends NTService

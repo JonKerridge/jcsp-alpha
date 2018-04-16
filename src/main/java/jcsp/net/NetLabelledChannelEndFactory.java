@@ -46,7 +46,7 @@ package jcsp.net;
  * }</code> constructor.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface NetLabelledChannelEndFactory

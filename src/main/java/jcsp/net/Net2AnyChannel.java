@@ -30,7 +30,7 @@ import jcsp.util.ChannelDataStore;
  * A channel for network input (RX).  This is a "Net2Any" channel,
  * which can be safely used by multiple readers on the same Node.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 class Net2AnyChannel implements NetSharedChannelInput, Networked

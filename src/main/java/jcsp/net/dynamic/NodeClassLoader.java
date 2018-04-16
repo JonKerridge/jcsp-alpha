@@ -32,7 +32,7 @@ import jcsp.net.*;
  * allows the JFTP process to push other classes to the class loader. Any classes pushed in this manner
  * will be registered when the next class is requested from the class loader.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 class NodeClassLoader extends ClassLoader

@@ -31,7 +31,7 @@ import jcsp.net.*;
  *
  * @see Link
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 class TCPIPLink extends Link

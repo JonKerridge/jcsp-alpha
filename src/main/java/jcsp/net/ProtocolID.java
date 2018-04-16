@@ -37,7 +37,7 @@ import java.util.*;
  * will allow the UIFactory or other initialisation details to be obtained from a central server.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 

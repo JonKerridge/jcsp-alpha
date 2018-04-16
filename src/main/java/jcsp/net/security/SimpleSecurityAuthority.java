@@ -31,7 +31,7 @@ import java.util.prefs.*;
  * an example of implementing a security authority and not a robust implementation suitable for long
  * term use.</p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class SimpleSecurityAuthority implements SecurityService
@@ -473,7 +473,7 @@ public class SimpleSecurityAuthority implements SecurityService
    /**
     * Represents the user ID for this authority.
     *
-    * @deprecated please use package net2 instead
+    *
  * @author Quickstone Technologies Limited
     */
    private static final class SimpleUserID implements UserID
@@ -494,7 +494,7 @@ public class SimpleSecurityAuthority implements SecurityService
    /**
     * Represents the authenticated user token for this authority.
     *
-    * @deprecated please use package net2 instead
+    *
  * @author Quickstone Technologies Limited
     */
    private static final class SimpleUserToken implements UserToken
@@ -520,7 +520,7 @@ public class SimpleSecurityAuthority implements SecurityService
    /**
     * The challenge for this authority containing a timestamp and block of random data.
     *
-    * @deprecated please use package net2 instead
+    *
  * @author Quickstone Technologies Limited
     */
    private static final class SimpleChallenge implements Challenge
@@ -546,7 +546,7 @@ public class SimpleSecurityAuthority implements SecurityService
     * The response for this authority, consisting of a block of data which has been mangled based on the
     * timestamp and ID of the user creating the response.
     *
-    * @deprecated please use package net2 instead
+    *
  * @author Quickstone Technologies Limited
     */
    private static final class SimpleResponse implements Response

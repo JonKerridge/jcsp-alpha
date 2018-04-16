@@ -30,7 +30,7 @@ import jcsp.net.*;
  * The class is used for sending messages between the CNS server
  * process and CNSService client processes.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 abstract class CNSMessage implements Serializable

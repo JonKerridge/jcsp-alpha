@@ -29,7 +29,7 @@ import jcsp.net.*;
  * @see CNSService
  * @see CNSService#getUserObject()
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface CNSUser

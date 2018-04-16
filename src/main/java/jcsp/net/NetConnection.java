@@ -31,7 +31,7 @@ package jcsp.net;
  * <code>{@link NetConnectionFactory}</code>.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class NetConnection

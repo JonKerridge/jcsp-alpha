@@ -27,7 +27,7 @@ import jcsp.lang.SharedChannelInput;
  * wish to act as <code>NetChannelInput</code> objects
  * which can be used by muliple concurrent processes.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface NetSharedChannelInput extends SharedChannelInput, NetChannelInput

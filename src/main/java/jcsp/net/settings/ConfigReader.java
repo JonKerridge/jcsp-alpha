@@ -27,7 +27,7 @@ import java.io.*;
  *
  * <p>This is not a full XML reader, and is capable of reading only a subset of XML.</p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class ConfigReader implements XMLConfigConstants
@@ -965,7 +965,7 @@ public class ConfigReader implements XMLConfigConstants
    /**
     * Thrown in the event of a semantic error in the parsed XML file.
     *
-    * @deprecated please use package net2 instead
+    *
  * @author Quickstone Technologies Limited
     */
    public static class XMLValidationException extends RuntimeException

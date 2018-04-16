@@ -287,7 +287,7 @@ import jcsp.net.*;
  * @see ServiceManager
  * @see Node
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class CNS implements Service, CSProcess

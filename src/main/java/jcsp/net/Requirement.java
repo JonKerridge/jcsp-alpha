@@ -22,7 +22,7 @@ package jcsp.net;
 
 /**
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited.
  */
 class Requirement

@@ -34,7 +34,7 @@ import jcsp.util.filter.*;
  * <p>Instances of this class will be created by the <code>DynamicClassLoader</code> service and should
  * be obtained via its <code>getTxFilter</code> method.</p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 class DataSerializationFilter implements Filter

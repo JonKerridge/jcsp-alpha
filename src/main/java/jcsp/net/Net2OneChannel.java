@@ -27,7 +27,7 @@ import jcsp.util.ChannelDataStore;
  * A channel for network input (RX).  This is a "Net2One" channel,
  * which can only be used by one reader at a time.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 class Net2OneChannel extends NetAltingChannelInput

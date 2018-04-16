@@ -28,7 +28,7 @@ import java.io.*;
  * deserialized to obtain the JFTP reference even if the class held here is not available. When the
  * relevant class has been loaded the data from the byte array can be deserialized.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 
@@ -199,7 +199,7 @@ class SerializedData implements Externalizable
    /**
     * Factory for creating object input streams.
     *
-    * @deprecated please use package net2 instead
+    *
  * @author Quickstone Technologies Limited
     */
    public interface InputStreamFactory
@@ -213,7 +213,7 @@ class SerializedData implements Externalizable
    /**
     * Implementation of the <code>InputStreamFactory</code> to create a <code>ObjectInputStream</code>.
     *
-    * @deprecated please use package net2 instead
+    *
  * @author Quickstone Technologies Limited
     */
    private class BasicInputStreamFactory implements InputStreamFactory

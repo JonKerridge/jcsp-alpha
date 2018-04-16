@@ -29,7 +29,7 @@ import jcsp.lang.SharedConnectionClient;
  * <code>ConnectionClient</code> objects from over a JCSP.NET
  * network.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface NetSharedConnectionClient extends Networked, SharedConnectionClient

@@ -22,7 +22,7 @@ package jcsp.net.cns;
 
 /**
  * An exception caused by an invalid or misused NameAccessLevel.
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class NameAccessLevelException extends IllegalArgumentException

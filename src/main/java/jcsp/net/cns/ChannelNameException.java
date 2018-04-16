@@ -23,7 +23,7 @@ package jcsp.net.cns;
 /**
  * An exception caused by an invalid channel name.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class ChannelNameException extends IllegalArgumentException

@@ -42,7 +42,7 @@ import jcsp.net.settings.*;
  * <code>{@link jcsp.net.cns.CNS}</code>.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class XMLNodeFactory implements NodeFactory

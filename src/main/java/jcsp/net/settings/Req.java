@@ -23,7 +23,7 @@ package jcsp.net.settings;
 /**
  * A system requirement.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface Req

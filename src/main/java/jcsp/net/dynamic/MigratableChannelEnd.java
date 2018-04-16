@@ -26,7 +26,7 @@ import jcsp.net.cns.*;
 /**
  * Static factory for creating migratable channel ends.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class MigratableChannelEnd

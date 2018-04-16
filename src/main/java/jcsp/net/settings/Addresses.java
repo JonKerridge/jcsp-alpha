@@ -25,7 +25,7 @@ import java.util.*;
 /**
  * Unsed internally within the JCSP network infrastructure to represent a set of addresses.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class Addresses

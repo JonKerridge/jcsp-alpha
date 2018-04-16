@@ -39,7 +39,7 @@ import jcsp.lang.AltingConnectionClientImpl;
  * using the <code>{@link NetConnection}</code> class.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class NetAltingConnectionClient extends AltingConnectionClientImpl implements NetConnectionClient

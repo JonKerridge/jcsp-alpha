@@ -27,7 +27,7 @@ import jcsp.net.*;
  * the methods used. Alternatively the static methods in <code>MigratableChannelEnd</code> can be
  * used to create the channel ends.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class MigratableChannelEndFactory implements NetChannelEndFactory

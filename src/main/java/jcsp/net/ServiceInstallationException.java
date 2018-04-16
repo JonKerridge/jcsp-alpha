@@ -23,7 +23,7 @@ package jcsp.net;
 /**
  * An excpetion that is thrown if a service installation fails.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class ServiceInstallationException extends RuntimeException

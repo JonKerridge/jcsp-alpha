@@ -28,7 +28,7 @@ import jcsp.net.*;
  * TCP/IP link protocol. A TCP/IP node address consists of an internet host address (IP address)
  * and 16bit IP port number.</p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class TCPIPAddressID extends NodeAddressID

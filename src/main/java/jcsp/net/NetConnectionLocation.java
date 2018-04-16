@@ -30,7 +30,7 @@ package jcsp.net;
  * channel's can be obtained by calling
  * <code>getRequestChannelLocation()</code>.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 class NetConnectionLocation extends NetChannelLocation

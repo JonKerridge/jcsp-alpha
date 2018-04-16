@@ -31,7 +31,7 @@ import java.io.*;
  * of this class.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public final class DomainID extends AbstractID implements Serializable, Comparable

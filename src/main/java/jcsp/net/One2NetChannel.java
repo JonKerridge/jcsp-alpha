@@ -28,7 +28,7 @@ import java.io.*;
  * A channel for network output (TX).  This is a "One2Net" channel,
  * which can only be safely used by one writer.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 class One2NetChannel implements NetChannelOutput, Serializable

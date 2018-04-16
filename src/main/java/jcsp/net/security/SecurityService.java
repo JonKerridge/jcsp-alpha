@@ -25,7 +25,7 @@ import jcsp.net.*;
 /**
  * Defines the actual interface combining service administration and user control methods.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface SecurityService extends SecurityAuthority, Service

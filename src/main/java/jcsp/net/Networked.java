@@ -25,7 +25,7 @@ package jcsp.net;
  * class that has a Networked channel location or wishes
  * to expose the location of an underlying channel.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface Networked

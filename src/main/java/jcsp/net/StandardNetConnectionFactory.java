@@ -25,7 +25,7 @@ package jcsp.net;
  * This is an implementation of <code>{@link NetConnectionFactory}</code>.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class StandardNetConnectionFactory implements NetConnectionFactory

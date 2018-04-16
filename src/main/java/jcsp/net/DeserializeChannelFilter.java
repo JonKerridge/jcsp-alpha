@@ -34,7 +34,7 @@ import jcsp.util.filter.*;
  * the <CODE>ClassManager</CODE> object is supplied to the Message object and the underlying message extracted.
  * Any classes that need loading from the remote Node are requested and loaded as necessary.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 class DeserializeChannelFilter implements Filter

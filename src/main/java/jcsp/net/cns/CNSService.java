@@ -56,7 +56,7 @@ import jcsp.util.Buffer;
  *
  * @see CNS
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class CNSService implements Service, CNSUser

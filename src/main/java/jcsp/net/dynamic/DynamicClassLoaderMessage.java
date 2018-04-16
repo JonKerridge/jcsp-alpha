@@ -29,7 +29,7 @@ import jcsp.net.*;
  * that it includes a <code>NetChannelLocation</code> referring to the JFTP request channel to service
  * requests for the class's binary image if it is not held at the receiving end.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 class DynamicClassLoaderMessage implements Serializable

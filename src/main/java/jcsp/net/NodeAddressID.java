@@ -45,7 +45,7 @@ import java.io.*;
  * not the address is globally unique.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public abstract class NodeAddressID implements Serializable, Cloneable

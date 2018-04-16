@@ -26,7 +26,7 @@ import jcsp.util.filter.*;
 /**
  * A migratable networked input channel end.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface MigratableChannelInput extends NetChannelInput, FilteredChannelInput

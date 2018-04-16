@@ -26,7 +26,7 @@ import jcsp.util.ChannelDataStore;
  * This interface defines methods for constructing buffered
  * Networked <code>ChannelInput</code> objects.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface NetBufferedChannelEndFactory

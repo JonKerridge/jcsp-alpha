@@ -32,7 +32,7 @@ import jcsp.lang.*;
  * This class does not need to be sub-classed by JCSP users.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public abstract class NetAltingChannelInput extends AltingChannelInputWrapper implements NetChannelInput

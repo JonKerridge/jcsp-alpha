@@ -29,7 +29,7 @@ import jcsp.lang.*;
  * <p>Program to run a Channel Name Service. The service will listen on all locally available
  * addresses using either a default port of 7890 or a port specified in the XML file.</p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class TCPIPCNSServer2

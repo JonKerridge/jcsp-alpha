@@ -23,7 +23,7 @@ package jcsp.net.dynamic;
 /**
  * Thrown when a channel end cannot be moved.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class ChannelEndNotMoveableException extends RuntimeException

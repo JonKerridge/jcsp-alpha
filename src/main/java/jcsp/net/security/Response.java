@@ -23,7 +23,7 @@ package jcsp.net.security;
 /**
  * Abstract representation of a response as part of the security negotiation.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface Response extends java.io.Serializable

@@ -45,7 +45,7 @@ import jcsp.net.*;
  * performance by increasing the likelihood of a node passing on all of the definitions its peers
  * might require before it terminates.</p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 class JFTP implements CSProcess

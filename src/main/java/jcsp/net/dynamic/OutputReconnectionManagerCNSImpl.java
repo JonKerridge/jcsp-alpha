@@ -30,7 +30,7 @@ import jcsp.net.cns.*;
  * If this class is used for the output end, <code>InputReconnectionManagerCNSImpl</code> should be
  * used at the input end.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 

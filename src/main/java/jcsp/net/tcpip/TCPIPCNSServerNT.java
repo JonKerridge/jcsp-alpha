@@ -27,7 +27,7 @@ import jcsp.win32.*;
  * path <code>java jcsp.net.tcpip.TCPIPCNSServerNT</code> with the service name
  * <code>JCSP.NET:TCPIPCNSServer</code>.</p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class TCPIPCNSServerNT extends NTService

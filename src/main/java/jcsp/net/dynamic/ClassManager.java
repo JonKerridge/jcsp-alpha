@@ -35,7 +35,7 @@ import jcsp.net.*;
  * file from that node. If a <code>NodeClassLoader</code> has not been started, one will be created
  * and used for all subsequent requests to be issued to the remote node.</p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 class ClassManager implements CSProcess

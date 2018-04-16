@@ -52,7 +52,7 @@ import java.util.*;
  * Node by reading from the protected <CODE>txChannel</CODE> object.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public abstract class Link implements CSProcess

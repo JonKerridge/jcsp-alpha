@@ -37,7 +37,7 @@ import jcsp.net.security.*;
  * runtime supporting the preferences is available. If not present the system preferences will then
  * be checked.</p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class TCPIPNodeFactory implements NodeFactory

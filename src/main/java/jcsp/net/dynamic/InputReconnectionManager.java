@@ -28,7 +28,7 @@ import java.io.Serializable;
  * <code>getInputChannel</code> method and used like any other channel. Before migrating the channel,
  * the <code>prepareToMove</code> method must be called.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface InputReconnectionManager extends Serializable

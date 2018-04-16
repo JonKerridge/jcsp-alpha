@@ -33,7 +33,7 @@ import java.util.*;
  *
  * Profile functionality is still being implemented.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class Profile

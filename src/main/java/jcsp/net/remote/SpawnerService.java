@@ -35,7 +35,7 @@ import jcsp.util.filter.*;
  * initialize the local node. Alternatively it can be started programmatically and the caller must
  * take responsibility for initializing the node.</p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class SpawnerService implements CSProcess

@@ -26,7 +26,7 @@ package jcsp.net.security;
  * or other authentication details. It is the responsibility of the authority to do the authentication and
  * only supply a token instance if the credentials are okay.</p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface UserToken extends java.io.Serializable

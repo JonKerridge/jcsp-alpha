@@ -26,7 +26,7 @@ import jcsp.net.cns.*;
 /**
  * Implementation of the factory for creating named migratable networked channel ends.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class NamedMigratableChannelEndFactoryImpl implements NamedMigratableChannelEndFactory

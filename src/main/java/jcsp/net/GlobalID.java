@@ -37,7 +37,7 @@ import java.io.*;
  * this class.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public final class GlobalID extends AbstractID implements Serializable

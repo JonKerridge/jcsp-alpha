@@ -27,7 +27,7 @@ import jcsp.lang.SharedConnectionServer;
  * <code>SharedConnectionServer</code> objects which accept
  * connections from clients from over a JCSP.NET network.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface NetSharedConnectionServer extends SharedConnectionServer, NetConnectionServer

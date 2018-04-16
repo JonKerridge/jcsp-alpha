@@ -24,7 +24,7 @@ import jcsp.net.settings.*;
 
 /**
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited.
  */
 class PingRequirement extends Requirement

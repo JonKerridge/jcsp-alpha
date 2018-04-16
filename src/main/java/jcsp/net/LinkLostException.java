@@ -23,7 +23,7 @@ package jcsp.net;
 /**
  * An exception caused by a link underlying a channel breaking.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited.
  */
 public class LinkLostException extends RuntimeException

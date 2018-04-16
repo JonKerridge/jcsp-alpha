@@ -44,7 +44,7 @@ import java.util.*;
  * <p>Alternative implementations of this class may instead write to a system event log or format the
  * information in manners tailored to particular debugging environments.</p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 

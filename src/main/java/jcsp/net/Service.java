@@ -29,7 +29,7 @@ package jcsp.net;
  * Services should be initialized, then started and then stopped.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface Service

@@ -27,7 +27,7 @@ import jcsp.lang.*;
  *
  * <p>This is a package-private implementation class.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 // package-private

@@ -31,7 +31,7 @@ import java.io.*;
  * <p>
  * For a full explanation, see <code>{@link AbstractID}</code>.
  * </p>
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class ApplicationID extends AbstractID implements Serializable

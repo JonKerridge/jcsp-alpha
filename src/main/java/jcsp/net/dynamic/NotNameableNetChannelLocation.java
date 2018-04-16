@@ -29,7 +29,7 @@ import jcsp.net.cns.LocationNotCNSRegisterable;
  * register channels at these locations due to this class implementing
  * the <code>LocationNotCNSRegisterable</code> interface.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 class NotNameableNetChannelLocation extends NetChannelLocation implements LocationNotCNSRegisterable

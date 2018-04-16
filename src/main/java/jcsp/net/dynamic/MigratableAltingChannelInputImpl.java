@@ -28,7 +28,7 @@ import jcsp.util.filter.*;
 /**
  * Implements a migratable input channel end that can be used in an <code>Alternative</code>.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 class MigratableAltingChannelInputImpl extends MigratableAltingChannelInput

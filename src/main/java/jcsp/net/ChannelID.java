@@ -24,7 +24,7 @@ import java.io.*;
 
 /**
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited.
  */
 class ChannelID implements Serializable

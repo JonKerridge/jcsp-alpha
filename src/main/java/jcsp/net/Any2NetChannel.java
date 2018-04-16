@@ -31,7 +31,7 @@ import java.io.Serializable;
  * {@link One2NetChannel}
  *
  * @see One2NetChannel
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 class Any2NetChannel implements NetSharedChannelOutput, Serializable

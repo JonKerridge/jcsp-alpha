@@ -46,7 +46,7 @@ import java.util.*;
  * @see CNSService
  *
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class CNSChannelEndManager implements NamedChannelEndManager

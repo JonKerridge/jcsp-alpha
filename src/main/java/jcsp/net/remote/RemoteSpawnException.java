@@ -24,7 +24,7 @@ package jcsp.net.remote;
  * Wraps up a non-RuntimeException into a runtime exception that can be ignored or caught and
  * rethrown if required.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class RemoteSpawnException extends RuntimeException

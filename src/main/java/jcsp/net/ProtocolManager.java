@@ -42,7 +42,7 @@ import java.util.*;
  * a given protocol can be obtained and then used to test whether a set of
  * specifications match a given <CODE>Profile</CODE>.
  * </p>
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class ProtocolManager

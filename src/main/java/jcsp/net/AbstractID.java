@@ -64,7 +64,7 @@ import java.io.Serializable;
  * <code>GlobalID</code> object.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 

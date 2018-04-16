@@ -30,7 +30,7 @@ import java.lang.reflect.*;
  * Implementation of the <code>InputReconnectionManager</code> to work with a CNS service for resolution
  * of the channel's current location.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 class InputReconnectionManagerCNSImpl implements InputReconnectionManager

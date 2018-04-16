@@ -25,7 +25,7 @@ package jcsp.net.cns;
  * which do not want to allow themselves to be registered with the
  * Channel Name Server.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface LocationNotCNSRegisterable

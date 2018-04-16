@@ -32,7 +32,7 @@ import jcsp.util.ChannelDataStore;
  * <code>{@link NetChannelEndFactory}</code>.
  * </p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class NetChannelEnd

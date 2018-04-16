@@ -31,7 +31,7 @@ import jcsp.lang.*;
  * addresses using either a default port of 7890 or a port specified by the first parameter on the
  * command line.</p>
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public class TCPIPCNSServer

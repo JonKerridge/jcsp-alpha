@@ -27,7 +27,7 @@ import java.io.*;
  * this interface and passing an instance to the <code>factoryInit</code> method of
  * <code>Node</code>.
  *
- * @deprecated please use package net2 instead
+ *
  * @author Quickstone Technologies Limited
  */
 public interface NodeFactory extends Serializable
