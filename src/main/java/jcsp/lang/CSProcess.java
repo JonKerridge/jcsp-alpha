@@ -165,6 +165,31 @@ package jcsp.lang;
  * intuition about serial programming can safely be applied.  The new skills
  * needed to design and use parallel process networks sit alongside those
  * earlier skills and no cross-interference takes place.
+     * <P>
+     * JCSP is an alternative to the built-in
+     * <I>monitor</I> model for Java threads.  JCSP primitives should not normally
+     * be mixed into designs with <TT>synchronized</TT> method declarations, instances
+     * of the <TT>java.lang.Runnable</TT> interface or <TT>java.lang.Thread</TT> class,
+     * or invocations of the <TT>wait</TT>/<TT>notify</TT>/<TT>notifyAll</TT>
+     * methods from <TT>java.lang.Object</TT>.
+     * <P>
+     * However, JCSP is compatible with the built-in model and, with care, can be mixed
+     * safely and profitably.  In particular, process communication via <TT>wait</TT>-free
+     * <TT>synchronized</TT> method invocations on a shared passive object directly
+     * implements a common CSP <I>server</I> idiom
+     * (see {@link jcsp.awt.DisplayList <TT>DisplayList</TT>} for an example).
+     * Further, existing libraries that interact with user software via <I>listener</I>
+     * registration and callback (such as the standard <I>AWT</I> and <I>Swing</I>) can be
+     * easily tailored to operate as processes with channel-based interfaces (for
+     * example, see {@link jcsp.awt <I>jcsp.awt</I>}).
+     * <P>
+     * Finally, we note that the JCSP library reflects
+     * the <A HREF="http://occam-pi.org/"><B>occam-pi</B></A>
+     * realisation of CSP and pi-calculus.,
+     * An <B>occam-pi</B> <TT>PROC</TT> declaration maps simply into a class implementing
+     * {@link jcsp.lang.CSProcess <TT>CSProcess</TT>}, whose constructor parameters mirror the <TT>PROC</TT>
+     * parameters and whose <TT>run</TT> method mirrors the <TT>PROC</TT> body.
+     * <P>
  * <H2>Examples</H2>
  * Numerous examples are scattered throughout the documentation of this library.
  * Good starting ponts are in the {@link Parallel} and {@link Alternative} classes.

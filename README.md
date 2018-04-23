@@ -3,6 +3,8 @@ This library contains the specification for the JCSP core API.
 Please read the LICENCE as further use of the library implies acceptance of either of the licences (Apache 2.0 or
 GNU LPGL 2.1).
 
+**Overview**
+
 JCSP provides a complete library for building complex functionality through layered networks of 
 communicating processes. It conforms to the CSP model of communicating systems so that many (>30) years of theory, 
 tools and practical experience can be brought to bear in the support of Java multi-threaded applications. 
@@ -32,7 +34,8 @@ Finally, we note that the JCSP library reflects the occam-pi realisation of CSP 
 declaration maps simply into a class implementing CSProcess, whose constructor parameters mirror the PROC parameters 
 and whose run method mirrors the PROC body.
 
-Acknowledgements
+**Acknowledgements**
+
 This JCSP library is being developed from work originally carried out and presented by numerous individuals at the 
 WoTUG Java Threads Workshop and conferences (WoTUG-20, WoTUG-21, WoTUG-22, WoTUG-23/CPA-2000, WoTUG-24/CPA-2001, 
 WoTUG-25/CPA-2002, WoTUG-26/CPA-2003, WoTUG-27/CPA-2004, WoTUG-28/CPA-2005, WoTUG-29/CPA-2006, WoTUG-30/CPA-2007, 
@@ -43,7 +46,24 @@ Available at:
 
 Special thanks are owed to Paul Austin, who developed the original JCSP library.
 
-References
+**Using the Library**
+
+In a build.gradle file you should use:
+please note this is yet to be done
+
+repositories {
+    jcenter()
+}
+dependencies {
+    compile group: 'JonKerridge', name: 'jcsp', version: '1.1.0'
+}
+
+**Building the Library**
+
+The src folder contains both main and test folders in the format used by Gradle
+
+**References**
+
 `Communicating Sequential Processes', C.A.R. Hoare, CACM, 21-8, pp. 666-677, August 1978.
 
     This is the original exposition of CSP. Presentation is largely from the programmer's point of view. The Ada 
