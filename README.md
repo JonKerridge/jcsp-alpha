@@ -143,3 +143,6 @@ problems (race hazards, deadlock etc.) to worry about. A good model of concurren
 design, implementation, verification and maintenance of systems. A design goal for our CSP-for-Java collaboration is 
 to enable concurrency to play that natural role. Feedback on moving towards that goal is always welcome. 
 Email messages can be sent to either CSPforJAVA@outlook.com or CSPforJava@gmail.com
+
+Version Comments
+jcsp-alpha-1.1.2 removed the win32 folder and removed refernces to it from the jcsp/net package
